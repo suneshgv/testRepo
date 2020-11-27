@@ -2,7 +2,11 @@ file 1 from local
 
 file 1 from remote
 
+<<<<<<< HEAD
 
 file 1 from local 2
 
 file 1 from local 3
+=======
+file 1 from remote 2
+>>>>>>> aa1e1d8a9d54aa5f2a73efe16f9ce4ea8f74a2fb
