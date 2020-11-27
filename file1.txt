@@ -16,3 +16,7 @@ file 1 from local 4
 file 1 remote 5
 
 
+file 1 remote 6
+
+
+
