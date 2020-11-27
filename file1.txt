@@ -19,4 +19,5 @@ file 1 remote 5
 file 1 remote 6
 
 
+file 1 from local 5
 
